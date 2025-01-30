@@ -54,4 +54,7 @@ This HR dashboard provides insights into employee metrics, attrition trends, and
 ##  Conclusion  
 The HR Dashboard provides a **comprehensive view of employee attrition, demographics, and job satisfaction**. The insights suggest that **attrition in the Sales Department, early-career employees, and certain educational backgrounds require urgent attention**. Addressing these areas with **targeted HR strategies** can improve **employee retention, engagement, and overall workforce stability**.  
 
+https://public.tableau.com/app/profile/payal.dhameliya/viz/hrdashbord_17245135456100/Dashboard1
+
+![HR Dashboard](image.png)
 ---
