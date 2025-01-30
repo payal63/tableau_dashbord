@@ -101,4 +101,6 @@ This combined dashboard provides a comprehensive platform to:
 ## **Explore the Dashboard**  
 **[Sales & Customer Dashboard on Tableau Public](https://public.tableau.com/app/profile/payal.dhameliya/viz/sales_dashboard_V1_0/salesdashboard)**
 
+![sales dashboard](image/sales_dashbord.png)
+
 ---
