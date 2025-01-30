@@ -103,4 +103,6 @@ This combined dashboard provides a comprehensive platform to:
 
 ![sales dashboard](image/sales_dashbord.png)
 
+![Customers dashboard](image/customer_dashbord.png)
+
 ---
